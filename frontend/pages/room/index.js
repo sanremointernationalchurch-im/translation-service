@@ -1,0 +1,1 @@
+export default function R(){return(<div><a href='/room/main'>Main Room</a></div>);} 
