@@ -1,1 +1,0 @@
-import {useState} from 'react';export default function Admin(){const[r,s]=useState(false);return(<div style={{padding:16,fontFamily:'Arial'}}><h1>Admin</h1><button onClick={()=>s(!r)}>{r?'Stop':'Start'}</button></div>);}

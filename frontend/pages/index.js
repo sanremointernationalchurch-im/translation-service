@@ -1,1 +1,0 @@
-import Link from 'next/link';export default function Home(){return(<div style={{padding:'40px',fontFamily:'Arial',maxWidth:'800px',margin:'0 auto'}}><h1>Translation Service 02</h1><p><Link href="/admin">Admin</Link></p><p><Link href="/room/main">Room Demo</Link></p></div>);}

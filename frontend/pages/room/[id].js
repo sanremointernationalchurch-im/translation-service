@@ -1,1 +1,0 @@
-import {useState,useEffect} from 'react';export default function P(){const[l,setL]=useState([]);useEffect(()=>{const t=setInterval(()=>setL(v=>[...v,'Line']),1500);return()=>clearInterval(t)},[]);return(<div style={{padding:16}}><h2>Room</h2>{l.map((x,i)=><div key={i}>{x}</div>)}</div>);}

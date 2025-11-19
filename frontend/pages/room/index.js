@@ -1,1 +1,0 @@
-import Link from 'next/link';export default function R(){return(<div style={{padding:16}}><h2>Rooms</h2><Link href="/room/main">Main</Link></div>);}

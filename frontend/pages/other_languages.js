@@ -1,1 +1,0 @@
-export default function O(){return <ul><li>English</li><li>Italian</li></ul>}
