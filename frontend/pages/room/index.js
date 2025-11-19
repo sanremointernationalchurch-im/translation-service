@@ -1,1 +1,0 @@
-export default function Room(){return <div>Room demo page</div>}
