@@ -1,0 +1,1 @@
+export default function Other(){ return <div style={{padding:16}}>Full languages list (demo)</div> }
