@@ -1,0 +1,1 @@
+export default function TranscriptEditor({initialText}){return <textarea defaultValue={initialText}></textarea>}

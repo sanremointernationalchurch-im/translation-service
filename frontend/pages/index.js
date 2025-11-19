@@ -1,0 +1,1 @@
+export default function Home(){return <div>Translation Service 02</div>}

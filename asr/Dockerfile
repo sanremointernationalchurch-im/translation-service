@@ -1,0 +1,1 @@
+# Optional whisper dockerfile placeholder
